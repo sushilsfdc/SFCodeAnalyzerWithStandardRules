@@ -1,4 +1,4 @@
-# Salesforce Code Analyzer With Standard Set Rules included as part of PMD/ESLint Engines
+# Salesforce Code Analyzer With Included Standard Rules
 
 This project has one git workflow which uses salesforce code analyzer with standard PMD and EsLint rules. 
 
